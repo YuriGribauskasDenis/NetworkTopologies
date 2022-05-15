@@ -11,8 +11,6 @@ This family is heavily productive but complicated to understand. For example inc
 * Exception network
 
 [Google family file](https://github.com/YuriGribauskasDenis/NetworkTopologies/blob/main/GoogleNetFamilyTopologies.ipynb)
-
-[Article](https://arxiv.org/pdf/1704.04861.pdf)
 	
 ## Mobile Net
 This topology family is dedicated to create small but potent network capable of working on devices with limited capabilities like mobile devices
@@ -20,6 +18,5 @@ This topology family is dedicated to create small but potent network capable of 
 * Mini Concolutional Neural Network
 
 [Mobile family file](https://github.com/YuriGribauskasDenis/NetworkTopologies/blob/main/MobileNetFamilyTopologies.ipynb)
-
 
 [MobileNet Article](https://arxiv.org/pdf/1704.04861.pdf)
