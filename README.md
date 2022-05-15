@@ -6,6 +6,7 @@ Building functions for creating famous network families. All families are groupe
 * [Mobile Net](#mobile-net)
 
 ## Google Net
+This family is heavily productive but complicated to understand. For example includes separate topologies for training and inference.
 * Inception Network
 * Exception network
 
