@@ -9,11 +9,11 @@ Building functions for creating famous network families. All families are groupe
 * Inception Network
 * Exception network
 
-[a link](https://github.com/YuriGribauskasDenis/NetworkTopologies/blob/main/GoogleNetFamilyTopologies.ipynb)
+[Google family file](https://github.com/YuriGribauskasDenis/NetworkTopologies/blob/main/GoogleNetFamilyTopologies.ipynb)
 	
 ## Mobile Net
 This topology family is dedicated to create small but potent network capable of working on devices with limited capabilities like mobile devices
 * Mobile Network
 * Mini Concolutional Neural Network
 
-[a link](https://github.com/YuriGribauskasDenis/NetworkTopologies/blob/main/MobileNetFamilyTopologies.ipynb)
+[Mobile family file](https://github.com/YuriGribauskasDenis/NetworkTopologies/blob/main/MobileNetFamilyTopologies.ipynb)
