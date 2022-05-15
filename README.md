@@ -4,6 +4,7 @@ Building functions for creating famous network families. All families are groupe
 ## Table of contents
 * [Google Net](#google-net)
 * [Mobile Net](#mobile-net)
+* [VGG](#vgg)
 
 ## Google Net
 This family is heavily productive but complicated to understand. For example includes separate topologies for training and inference.
@@ -20,3 +21,10 @@ This topology family is dedicated to create small but potent network capable of 
 [Mobile family file](https://github.com/YuriGribauskasDenis/NetworkTopologies/blob/main/MobileNetFamilyTopologies.ipynb)
 
 [MobileNet Article](https://arxiv.org/pdf/1704.04861.pdf)
+
+## VGG
+One of the classical and the most streight forward families
+* Alex Network
+* VGG Network
+
+[VGG family file](https://github.com/YuriGribauskasDenis/NetworkTopologies/blob/main/VGGFamilyTopologies.ipynb)
